@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnoldega
+- 👋 Hi, I’m Reza Alfadin
 - 👀 I’m interested in Data Science,Data Analyst,Product Analyst,Product Associate, and System Implementator
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Analyst
